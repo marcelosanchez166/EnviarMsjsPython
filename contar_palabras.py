@@ -53,7 +53,7 @@ import pywhatkit
 
 # Prompt user for group id and message
 # group_id = input("Introduce el id del grupo de WhatsApp: ")
-# message = input("Introduce el mensaje: ")# J3ry9K2c30pAiJg9M6Bk9H
+# message = input("Introduce el mensaje: ")#
 numero=input("Introduce el telefono de WhatsApp: ")
 mensaje = input("Introduce el mensaje: ")
 # Send message to WhatsApp group
